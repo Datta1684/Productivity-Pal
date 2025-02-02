@@ -1,0 +1,14 @@
+{
+  "name": "productivity-pal",
+  "version": "1.0.0",
+  "description": "AI-Powered Productivity & Wellness Assistant Chrome Extension",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.1"
+  },
+  "author": "",
+  "license": "MIT"
+}

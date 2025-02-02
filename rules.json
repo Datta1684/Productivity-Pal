@@ -1,0 +1,19 @@
+{
+  "distracting_sites": [
+    "*://*.youtube.com/*",
+    "*://*.facebook.com/*",
+    "*://*.twitter.com/*",
+    "*://*.instagram.com/*",
+    "*://*.reddit.com/*"
+  ],
+  "exceptions": [
+    "*://*.google.com/*",
+    "*://*.github.com/*",
+    "*://*.stackoverflow.com/*"
+  ],
+  "settings": {
+    "blockDuringFocus": true,
+    "showWarning": true,
+    "allowOverride": false
+  }
+}
